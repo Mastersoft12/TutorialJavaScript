@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TutorialJavaScript:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.tutorial.javascript.war">
+      <element id="artifact" artifact-name="TutorialJavaScript:war exploded" />
+    </root>
+  </artifact>
+</component>
